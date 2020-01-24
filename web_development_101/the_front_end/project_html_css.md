@@ -2913,8 +2913,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Lucas-Vergara's Solution (Easy)](https://github.com/Lucas-Vergara/google-homepage) - [View in Browser](https://lucas-vergara.github.io/google-homepage/)
 * [Jeremy Ebinum's Solution (Both)](https://github.com/jeremy-ebinum/google-homepage) - [View in Browser](https://jeremy-ebinum.github.io/google-homepage/)
 * [Kuba Zawierucha's Solution (Both)](https://github.com/KubaZawierucha/google-homepage) - [View in Browser](https://kubazawierucha.github.io/google-homepage/)
+my solution is here
 </details>
-
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
